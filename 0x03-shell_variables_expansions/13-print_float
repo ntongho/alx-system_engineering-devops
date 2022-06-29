@@ -1,0 +1,2 @@
+#!/in/bash
+print *%0.2f\n" $NUM
